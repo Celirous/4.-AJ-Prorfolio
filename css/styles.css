@@ -602,6 +602,21 @@ progress {
   height: auto;
 }
 
+.img-fluid-shoppinglist {
+  height: 70%;
+  width: 118.7%;
+}
+
+/*
+.img-fluid--button {
+  background: none;      
+  border: none;
+  padding: 0;
+  cursor: pointer;        
+  transition: transform 0.2s ease;
+}
+*/
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -11057,11 +11072,16 @@ footer.footer .social-link:hover {
 .portfolio-item .caption .caption-content h2, .portfolio-item .caption .caption-content .h2 {
   font-size: 0.8rem;
   text-transform: uppercase;
+  color: white;
+  text-shadow: 2px 0px 2px black;
 }
 .portfolio-item .caption .caption-content p {
   font-weight: 300;
   font-size: 1.2rem;
+  color: white;
+  text-shadow: 2px 0px 2px black;
 }
+
 @media (min-width: 992px) {
   .portfolio-item {
     max-width: none;
