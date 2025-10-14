@@ -603,9 +603,35 @@ progress {
 }
 
 .img-fluid-shoppinglist {
-  height: 70%;
+  height: auto;
   width: 118.7%;
 }
+
+.img-fluid-guessing {
+  height: auto;
+  width: 110.2%;
+}
+
+.img-fluid-adlibz {
+  height: 110%;
+  width: 100%;
+}
+
+.img-fluid-bot {
+  height: auto;
+  width: 100%;
+}
+
+.img-fluid-pizza {
+  height: auto;
+  width: 100%;
+}
+
+.img-fluid-lemonade {
+  height: auto;
+  width: 100%;
+}
+
 
 /*
 .img-fluid--button {
